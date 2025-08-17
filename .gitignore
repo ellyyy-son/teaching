@@ -11,3 +11,6 @@
 
 # Old notebooks
 old/*
+
+# Google Drive
+notebooks/Social Computing/.tmp*
