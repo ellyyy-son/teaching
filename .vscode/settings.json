@@ -1,0 +1,7 @@
+{
+  "github.copilot.chat.commitMessageGeneration.instructions": [
+    {
+      "text": "Use Conventional Commits. Start the title with one of: feat, fix, docs, style, refactor, perf, test, build, ci, chore, revert. Optionally include a scope in parentheses. Then a colon and a single space, then a concise, imperative summary. Example: feat(api): add pagination. After a blank line, include a short bullet list of key changes."
+    }
+  ]
+}

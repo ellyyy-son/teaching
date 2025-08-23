@@ -14,3 +14,7 @@ old/*
 
 # Google Drive
 notebooks/Social Computing/.tmp*
+
+# Excel files
+*.xlsx
+*.xls

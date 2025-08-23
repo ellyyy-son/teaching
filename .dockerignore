@@ -10,14 +10,10 @@ __pycache__/
 # Temp files
 tmp/
 
-# VS Code
-.vscode/
-
 # Notebooks
 .ipynb_checkpoints/
 
 # Environment/config
-.env
 .env.*
 
 # OS/editor junk
