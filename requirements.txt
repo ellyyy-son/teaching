@@ -11,3 +11,7 @@ google-auth-oauthlib
 scikit-learn
 nltk
 emoji
+seaborn
+wordcloud
+pyLDAvis
+nrclex
