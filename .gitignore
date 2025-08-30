@@ -18,3 +18,7 @@ notebooks/Social Computing/.tmp*
 # Excel files
 *.xlsx
 *.xls
+
+# Google Drive tmp folders and files
+*.tmp.*
+*desktop.ini*
